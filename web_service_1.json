@@ -94,18 +94,6 @@
         ]
     }
 }
-{
-    "Employee Status": "Full-time",
-    "description": "We are looking for a Quality Assurance (QA) engineer to develop and execute exploratory and automated tests to ensure product quality. QA engineer responsibilities include designing and implementing tests, debugging and defining corrective actions. You will also review system requirements and track quality assurance metrics.",
-    "firm_title": "Banyan Data Services",
-    "position_title": "Quality Assurance Engineer",
-    "skills": [
-        "API Testing",
-        "Mobile testing",
-        "Appium",
-        "Selenium"
-    ]
-}
 
 //Part2. Response метода POST:
 
